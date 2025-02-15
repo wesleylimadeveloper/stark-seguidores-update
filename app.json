@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Stark Seguidores",
+    "slug": "stark-seguidores",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#770CF8"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#770CF8"
+      },
+      "package": "com.wldeveloper.starkseguidores"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "01479d2b-fa3a-47e2-a51e-e6c4fc4c426f"
+      }
+    }
+  }
+}
